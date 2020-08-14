@@ -1,0 +1,29 @@
+###########################################
+# Syntax Coloring Map For uMicroLibrary
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+uState				KEYWORD1
+uEvent				KEYWORD1
+uBit				KEYWORD1
+uFunction			KEYWORD1
+uInteger			KEYWORD1
+
+uProtectorTimer		KEYWORD1
+uHysteresisData		KEYWORD1
+uRangeComparator	KEYWORD1
+uRangeHysteresis	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+uLogica_HysteresisCompare 		KEYWORD2
+uLogica_HysteresisInit 			KEYWORD2
+uLogica_RangeComparatorInit		KEYWORD2
+uLogica_RangeComparatorCompare	KEYWORD2
+uLogica_RangeHysteresisInit		KEYWORD2
+uLogica_RangeHysteresisCompare	KEYWORD2
