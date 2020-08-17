@@ -11,4 +11,4 @@ In most cases, developers will need this library for platforms on microcontrolle
 - High level of code abstraction without extra bytes
 
 **This repository for Arduino IDE**
-You can download zip and install to arduino ide via **Sketch > Include Library > Add . zip Library.**
+You can [download zip](https://github.com/stellar-creator/uMicroLibrary-arduino/archive/develop.zip) and install to arduino ide via **Sketch > Include Library > Add . zip Library.**
