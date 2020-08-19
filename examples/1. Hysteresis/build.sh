@@ -1,0 +1,1 @@
+gcc main.c ../../inc/uLogica.c -o main.exe 
